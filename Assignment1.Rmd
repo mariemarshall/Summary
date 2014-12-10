@@ -1,0 +1,21 @@
+---
+title: "Assignment 1"
+output: html_document
+---
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+Perception and Visualization
+The reading described the role of human perception on visualization. Although, attention plays a critical role in what we see researchers focused on examining detection. Mainly because they found that detection seemed to proceed focused attention. This phenomenon is described by preattentive processing theory. Preattentive processing is the ability of the low-level human visual system to rapidly identify certain basic visual properties. Several visual features that have been identified as preattentive attributes which include: target detection, boundary detection, region tracking, and counting/estimation .There were four preattentive processing theories discussed in the reading. The first theory examined was the Feature Integration Theory, which offers a general hypothesis that aims to explain how preattentive processing occurs. Second, the Texton Theory was examined. This theory proved essential for understanding what individual "see" in an image. He suggested that the early visual system detects a group of features called textons. The third theory was the Similarity Theory. This theory proposed a three-step theory of visual selection. Lastly, the Guided Search Theory which focused on developing an activation map based on both bottom-up and top-down information that occurs during a visual search. Overall, a number of studies on the use of perception in visualization were described. This reading showed that it is essential to further understand perception because perception can significantly improve both the quality and the quantity of information. 
+
+Principles of Data Visualization - What We See in a Visual
+
+A main points discussed in this reading is why we visualize information, why it is essential, goals of data visualization, and the building blocks of a visual. First, we visualize to meet a very basic need - to tell a story. A visual is essential because it can communicate more information and is more effective than tables for presenting data. A goal of a visual can be to explain. A visual can explain data that can be used to solve specific problems. In addition, a visual can be used to explore. Specifically, a visual can be used to explore large data sets in order to gain a better understanding. This type of visualization can help pose new questions. In addition, it has become more popular because the rise of big data. In the reading, gestalt principles were described. Gestalt principles explain how our mind organizes different elements into groups. Further, this principle can be applied to highlight important patterns in a visual. Lastly, preattentive attributes were discussed. Preattentive attributes are the basic building blocks of visualization, and are identified by us almost immediately. Also, they lead us to spot patterns in a visual. The preattentive attributes discussed were Spatial position, Size / Area, Hue / Color, and Intensity.
+
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
